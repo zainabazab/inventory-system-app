@@ -42,5 +42,4 @@ The complete `README.md` now incorporates all sections:
 10. 🤝 Contribution
 11. 📄 License
 
-The entire development plan, from concept to deployment instructions, is now fully documented. You can now use all the code provided throughout our interaction to build the application following the steps in this comprehensive `README.md`.
 
